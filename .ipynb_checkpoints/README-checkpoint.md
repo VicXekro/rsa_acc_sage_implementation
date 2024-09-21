@@ -13,7 +13,6 @@ Before running the notebook, please install the following software/libraries:
 4. Execute the cell under **Runing Test** to prepare the random entries that will be used for benchmarking
 5. Set the value of *p_len, odd_len, hash_digest, prime_bit_length* based on the description given
 
-Now, run any of the implemented test to compare the impacts of H_prime with H_odd. 
 
 
 
