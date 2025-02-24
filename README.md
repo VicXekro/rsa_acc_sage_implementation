@@ -16,22 +16,7 @@ Before running the notebook, please install the following software/libraries:
 Now, run any of the implemented test to compare the impacts of H_prime with H_odd. 
 
 ### Paper:
-@inproceedings{10.1145/3658644.3690199,
-  author = {Kemmoe, Victor Youdom and Lysyanskaya, Anna},
-  title = {RSA-Based Dynamic Accumulator without Hashing into Primes},
-  year = {2024},
-  isbn = {9798400706363},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3658644.3690199},
-  doi = {10.1145/3658644.3690199},
-  booktitle = {Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security},
-  pages = {4271–4285},
-  numpages = {15},
-  keywords = {RSA accumulator, VDF, WebPKI, cryptographic accumulator},
-  location = {Salt Lake City, UT, USA},
-  series = {CCS '24}
-}
+Victor Youdom Kemmoe and Anna Lysyanskaya. 2024. *RSA-Based Dynamic Accumulator without Hashing into Primes*. In Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS '24). Association for Computing Machinery, New York, NY, USA, 4271–4285. https://doi.org/10.1145/3658644.3690199
 
 
 
